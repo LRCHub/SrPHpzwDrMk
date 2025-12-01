@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SHOOT (Firecracker)",
+  "base_artist": "CHAEYOUNG",
+  "createdAt": "2025-12-01T07:01:17.129069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SHOOT (Firecracker)",
+      "artist": "Chaeyoung",
+      "has_synced": true,
+      "path": "select/01_SHOOT_(Firecracker)_Chaeyoung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHOOT (Firecracker)",
+      "artist": "CHAEYOUNG",
+      "has_synced": false,
+      "path": "select/pl_01_SHOOT_(Firecracker)_CHAEYOUNG.txt"
+    }
+  ]
+}
